@@ -85,7 +85,7 @@ def main():
             heksa = input("Masukkan bilangan heksadesimal: ")
             print(f"Desimal     : {sb.hexToDec(heksa)}")
             print(f"Biner       : {sb.hexToBin(heksa)}")
-            print(f"Oktal       : {sb.hexToOct2(heksa)}")
+            print(f"Oktal       : {sb.hexToOct(heksa)}")
 
         else:
             print("Pilihan tidak valid! (1-4 saja)")
