@@ -52,7 +52,7 @@ class sb:
 
 def main():
     print("=" * 40)
-    print("     PROGRAM KONVERSI BILANGAN")
+    print("PROGRAM KONVERSI BILANGAN By Yosua Tambunan")
     print("=" * 40)
     print("Pilih jenis konversi:")
     print("1. Desimal ke Biner / Oktal / Heksa")
