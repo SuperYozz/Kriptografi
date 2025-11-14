@@ -35,7 +35,7 @@ class VigenereCipher:
         log = []
         gen_key = self.generate_key()
 
-        log.append("=== PROSES ENKRIPSI (tanpa sinkronisasi) ===")
+        log.append("=== PROSES ENKRIPSI  ===")
         log.append(f"Teks Asli        : {self.text}")
         log.append(f"Kunci            : {self.key}")
         log.append(f"Kunci Digunakan  : {gen_key}\n")
